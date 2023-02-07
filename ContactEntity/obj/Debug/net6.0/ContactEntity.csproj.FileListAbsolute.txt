@@ -1,0 +1,24 @@
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\bin\Debug\net6.0\ContactEntity.deps.json
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\bin\Debug\net6.0\ContactEntity.dll
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\bin\Debug\net6.0\ContactEntity.pdb
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\obj\Debug\net6.0\ContactEntity.csproj.AssemblyReference.cache
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\obj\Debug\net6.0\ContactEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\obj\Debug\net6.0\ContactEntity.AssemblyInfoInputs.cache
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\obj\Debug\net6.0\ContactEntity.AssemblyInfo.cs
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\obj\Debug\net6.0\ContactEntity.csproj.CoreCompileInputs.cache
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\obj\Debug\net6.0\ContactEntity.dll
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\obj\Debug\net6.0\refint\ContactEntity.dll
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\obj\Debug\net6.0\ContactEntity.pdb
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\ContactEntity\obj\Debug\net6.0\ref\ContactEntity.dll
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\bin\Debug\net6.0\ContactEntity.deps.json
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\bin\Debug\net6.0\ContactEntity.dll
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\bin\Debug\net6.0\ContactEntity.pdb
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\obj\Debug\net6.0\ContactEntity.csproj.AssemblyReference.cache
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\obj\Debug\net6.0\ContactEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\obj\Debug\net6.0\ContactEntity.AssemblyInfoInputs.cache
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\obj\Debug\net6.0\ContactEntity.AssemblyInfo.cs
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\obj\Debug\net6.0\ContactEntity.csproj.CoreCompileInputs.cache
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\obj\Debug\net6.0\ContactEntity.dll
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\obj\Debug\net6.0\refint\ContactEntity.dll
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\obj\Debug\net6.0\ContactEntity.pdb
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Bus System\ContactEntity\obj\Debug\net6.0\ref\ContactEntity.dll

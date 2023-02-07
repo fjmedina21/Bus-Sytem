@@ -1,0 +1,17 @@
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.exe
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.deps.json
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.runtimeconfig.json
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\bin\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.Form1.resources
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfoInputs.cache
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.AssemblyInfo.cs
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.dll
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\refint\CapaPresentacion.dll
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.pdb
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\CapaPresentacion.genruntimeconfig.cache
+C:\Users\Francico J. Medina\Documents\Workspace\C#\Agenda\CapaPresentacion\obj\Debug\net6.0-windows\ref\CapaPresentacion.dll
