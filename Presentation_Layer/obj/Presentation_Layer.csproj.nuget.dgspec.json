@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\Presentation_Layer\\Presentation_Layer.csproj": {}
+    "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\Presentation_Layer\\Presentation_Layer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj": {
+    "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj",
+        "projectUniqueName": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj",
         "projectName": "BusinessLogic_Layer",
-        "projectPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj",
-        "packagesPath": "C:\\Users\\Francico J. Medina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\BusinessLogic_Layer\\obj\\",
+        "projectPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj",
+        "packagesPath": "C:\\Users\\fjmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\BusinessLogic_Layer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Francico J. Medina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fjmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\ContactEntity\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\ContactEntity\\Entities.csproj"
+              "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\ContactEntity\\Entities.csproj": {
+                "projectPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\ContactEntity\\Entities.csproj"
               },
-              "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\Data_Layer\\Data_Layer.csproj": {
-                "projectPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\Data_Layer\\Data_Layer.csproj"
+              "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\Data_Layer\\Data_Layer.csproj": {
+                "projectPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\Data_Layer\\Data_Layer.csproj"
               }
             }
           }
@@ -62,21 +67,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\ContactEntity\\Entities.csproj": {
+    "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\ContactEntity\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\ContactEntity\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\ContactEntity\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\ContactEntity\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Francico J. Medina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\ContactEntity\\obj\\",
+        "projectPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\ContactEntity\\Entities.csproj",
+        "packagesPath": "C:\\Users\\fjmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\ContactEntity\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Francico J. Medina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fjmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -84,6 +93,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -117,21 +127,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\Data_Layer\\Data_Layer.csproj": {
+    "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\Data_Layer\\Data_Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\Data_Layer\\Data_Layer.csproj",
+        "projectUniqueName": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\Data_Layer\\Data_Layer.csproj",
         "projectName": "Data_Layer",
-        "projectPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\Data_Layer\\Data_Layer.csproj",
-        "packagesPath": "C:\\Users\\Francico J. Medina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\Data_Layer\\obj\\",
+        "projectPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\Data_Layer\\Data_Layer.csproj",
+        "packagesPath": "C:\\Users\\fjmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\Data_Layer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Francico J. Medina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fjmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -139,14 +153,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\ContactEntity\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\ContactEntity\\Entities.csproj"
+              "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\ContactEntity\\Entities.csproj": {
+                "projectPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\ContactEntity\\Entities.csproj"
               }
             }
           }
@@ -186,21 +201,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\Presentation_Layer\\Presentation_Layer.csproj": {
+    "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\Presentation_Layer\\Presentation_Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\Presentation_Layer\\Presentation_Layer.csproj",
+        "projectUniqueName": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\Presentation_Layer\\Presentation_Layer.csproj",
         "projectName": "Presentation_Layer",
-        "projectPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\Presentation_Layer\\Presentation_Layer.csproj",
-        "packagesPath": "C:\\Users\\Francico J. Medina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\Presentation_Layer\\obj\\",
+        "projectPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\Presentation_Layer\\Presentation_Layer.csproj",
+        "packagesPath": "C:\\Users\\fjmed\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\Presentation_Layer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Francico J. Medina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fjmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -208,17 +227,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj": {
-                "projectPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj"
+              "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj": {
+                "projectPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\BusinessLogic_Layer\\BusinessLogic_Layer.csproj"
               },
-              "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\ContactEntity\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\ContactEntity\\Entities.csproj"
+              "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\ContactEntity\\Entities.csproj": {
+                "projectPath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\ContactEntity\\Entities.csproj"
               }
             }
           }
@@ -251,7 +271,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

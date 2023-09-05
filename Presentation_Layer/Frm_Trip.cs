@@ -54,7 +54,7 @@ namespace Presentation_Layer
         {
             if (driversDGV.SelectedRows.Count > 0)
             {
-                conductorIDTxt.Text = driversDGV.CurrentRow.Cells[0].Value.ToString();   
+                conductorIDTxt.Text = driversDGV.CurrentRow.Cells[0].Value.ToString();
             }
         }
 
@@ -67,7 +67,7 @@ namespace Presentation_Layer
         }
 
         private void addBTrip()
-        {         
+        {
             if (busesDGV.SelectedRows.Count > 0)
             {
                 autobusIDTxt.Text = busesDGV.CurrentRow.Cells[0].Value.ToString();
@@ -76,7 +76,7 @@ namespace Presentation_Layer
 
         private void AddTrip()
         {
-            if (conductorIDTxt.Text.Length == 0 || autobusIDTxt.Text.Length == 0 || rutaIDTxt.Text.Length == 0 )
+            if (conductorIDTxt.Text.Length == 0 || autobusIDTxt.Text.Length == 0 || rutaIDTxt.Text.Length == 0)
             {
                 MessageBox.Show("Los campos no deben estar vacio");
             }

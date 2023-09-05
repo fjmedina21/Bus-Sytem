@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dYXuXNtbJ85rmyx53i80kiB5pD7WLjEIdQK68u/VcMdWfhOM/mmOuDW9QwmSzybx8rGE9uqYu5eJLq+y25HkTw==",
+  "dgSpecHash": "YSVCFt5Y64rUPRRD42Ckf4cU8NbVLO4WUPJBcjwtnn0ZgbX/SvsTMi+WAOdQZLghIdBttuDWvNYMzZ35eINeDQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Francico J. Medina\\Documents\\Workspace\\C#\\Prog II\\Bus System\\ContactEntity\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\fjmed\\Documents\\Workspace\\Bus-Sytem\\ContactEntity\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

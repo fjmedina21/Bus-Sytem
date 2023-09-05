@@ -22,3 +22,15 @@ C:\Users\Francico J. Medina\Documents\Workspace\C#\Prog II\Bus System\ContactEnt
 C:\Users\Francico J. Medina\Documents\Workspace\C#\Prog II\Bus System\ContactEntity\obj\Debug\net6.0\refint\Entities.dll
 C:\Users\Francico J. Medina\Documents\Workspace\C#\Prog II\Bus System\ContactEntity\obj\Debug\net6.0\Entities.pdb
 C:\Users\Francico J. Medina\Documents\Workspace\C#\Prog II\Bus System\ContactEntity\obj\Debug\net6.0\ref\Entities.dll
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\bin\Debug\net6.0\Entities.deps.json
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\bin\Debug\net6.0\Entities.dll
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\bin\Debug\net6.0\Entities.pdb
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\obj\Debug\net6.0\Entities.dll
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\obj\Debug\net6.0\refint\Entities.dll
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\obj\Debug\net6.0\Entities.pdb
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\ContactEntity\obj\Debug\net6.0\ref\Entities.dll

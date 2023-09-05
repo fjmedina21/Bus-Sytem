@@ -123,7 +123,7 @@ BEGIN
 				 VALUES (@DriverID, @BusID, @RouteID)
 		END    
 END
-
+------------------------------
 CREATE VIEW Trips_View 
 AS
 	SELECT t.TripCode, (d.FirstName +' '+ d.LastName) AS 'Driver', 

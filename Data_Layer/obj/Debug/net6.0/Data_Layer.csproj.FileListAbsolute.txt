@@ -43,3 +43,18 @@ C:\Users\Francico J. Medina\Documents\Workspace\C#\Prog II\Bus System\Data_Layer
 C:\Users\Francico J. Medina\Documents\Workspace\C#\Prog II\Bus System\Data_Layer\obj\Debug\net6.0\refint\Data_Layer.dll
 C:\Users\Francico J. Medina\Documents\Workspace\C#\Prog II\Bus System\Data_Layer\obj\Debug\net6.0\Data_Layer.pdb
 C:\Users\Francico J. Medina\Documents\Workspace\C#\Prog II\Bus System\Data_Layer\obj\Debug\net6.0\ref\Data_Layer.dll
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\bin\Debug\net6.0\Data_Layer.deps.json
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\bin\Debug\net6.0\Data_Layer.dll
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\bin\Debug\net6.0\Data_Layer.pdb
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\bin\Debug\net6.0\Entities.dll
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\bin\Debug\net6.0\Entities.pdb
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\obj\Debug\net6.0\Data_Layer.csproj.AssemblyReference.cache
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\obj\Debug\net6.0\Data_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\obj\Debug\net6.0\Data_Layer.AssemblyInfoInputs.cache
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\obj\Debug\net6.0\Data_Layer.AssemblyInfo.cs
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\obj\Debug\net6.0\Data_Layer.csproj.CoreCompileInputs.cache
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\obj\Debug\net6.0\Data_Layer.csproj.CopyComplete
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\obj\Debug\net6.0\Data_Layer.dll
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\obj\Debug\net6.0\refint\Data_Layer.dll
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\obj\Debug\net6.0\Data_Layer.pdb
+C:\Users\fjmed\Documents\Workspace\Bus-Sytem\Data_Layer\obj\Debug\net6.0\ref\Data_Layer.dll
